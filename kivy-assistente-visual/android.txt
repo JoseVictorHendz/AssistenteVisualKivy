@@ -1,3 +1,0 @@
-title=Assistente visual
-autho=jose
-orientation=landscape
